@@ -1,5 +1,8 @@
-Thanks for the whelming response team…
+Text Lecture: Automate our existing Jenkins Pipeline
+Jenkins file 
 
-We are pleased to announce that the submission dates have been extended further!!!!
+v0.1: https://github.com/jleetutorial/maven-project/blob/v0.1/Jenkinsfile
 
-Send in your entries before 5 :00 Pm – 07th June ‘2019
+v0.2: https://github.com/jleetutorial/maven-project/blob/v0.2/Jenkinsfile
+
+v0.3: https://github.com/jleetutorial/maven-project/blob/v0.3/Jenkinsfile
