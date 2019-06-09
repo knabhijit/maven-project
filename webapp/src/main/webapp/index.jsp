@@ -1,8 +1,1 @@
-Text Lecture: Automate our existing Jenkins Pipeline
-Jenkins file 
-
-v0.1: https://github.com/jleetutorial/maven-project/blob/v0.1/Jenkinsfile
-
-v0.2: https://github.com/jleetutorial/maven-project/blob/v0.2/Jenkinsfile
-PPPPPPPPPPPPPPPPPPPPP
-v0.3: https://github.com/jleetutorial/maven-project/blob/v0.3/Jenkinsfile
+Use your browser or command line to access your HTML static website:
